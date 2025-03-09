@@ -28,11 +28,8 @@ This project enhances YouTube’s functionality by integrating the YouTube API w
    git clone https://github.com/yourusername/your-repository.git
    cd your-repository
    ```
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Set Up API Keys**  
+   
+2. **Set Up API Keys**  
    - Obtain a YouTube API key from [Google Cloud Console](https://console.cloud.google.com/)
    - Get an OpenAI API key from [OpenAI](https://openai.com/)
    - Store them in a `.env` file:
@@ -40,7 +37,7 @@ This project enhances YouTube’s functionality by integrating the YouTube API w
      YOUTUBE_API_KEY=your_youtube_api_key
      OPENAI_API_KEY=your_openai_api_key
      ```
-4. **Run the Application**
+3. **Run the Application**
    ```bash
    python app.py
    ```
