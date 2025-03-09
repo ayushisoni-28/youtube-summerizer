@@ -59,6 +59,12 @@ This project enhances YouTube’s functionality by integrating the YouTube API w
 - **Sentiment Analysis**: Implement sentiment detection to analyze emotions in videos.
 - **Video Processing**: Enhance AI capabilities by analyzing video content beyond transcripts.
 
+
+
+## 📽️ Demo Video  
+[Project Demo](YouTube_Transcript.mp4)
+
+
 ## 🤝 Contribution
 Feel free to contribute to this project! Fork the repository, make improvements, and submit a pull request.
 
